@@ -73,6 +73,6 @@ python bio.py
 ## Author
 
 - Name: Elite Sid
-- Telegram: [@VivaanUpdates](https://t.me/VivaanUpdates)
+- Telegram: [@EliteSid](https://t.me/EliteSid)
 
 Feel free to reach out if you have any questions or feedback.
