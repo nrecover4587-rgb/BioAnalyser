@@ -1,2 +1,3 @@
-web: node index.js
+web: gunicorn bio:app
+
 
