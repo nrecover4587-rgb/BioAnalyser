@@ -362,5 +362,11 @@ async def check_bio(client: Client, message):
     else:
         await reset_warnings(chat_id, user_id)
 
+from pyrogram import idle
+
 if __name__ == "__main__":
-    app.run()
+    print("BioAnalyser Bot Started")
+    app.start()
+    idle()
+    app.stop()
+
