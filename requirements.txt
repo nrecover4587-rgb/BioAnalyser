@@ -1,4 +1,6 @@
-python-3.10.13
+pyrogram==2.0.106
+tgcrypto
+
 
 
 
