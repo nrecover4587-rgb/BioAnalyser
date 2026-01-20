@@ -46,7 +46,7 @@ async def start_handler(client: Client, message):
     kb = InlineKeyboardMarkup([
         [InlineKeyboardButton("➕ Add Me to Your Group", url=add_url)],
         [
-            InlineKeyboardButton("🛠️ Support", url="https://t.me/VivaanSupport"),
+            InlineKeyboardButton("🛠️ Support", url="https://t.me/codexempire"),
             InlineKeyboardButton("🗑️ Close", callback_data="close")
         ]
     ])
