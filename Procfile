@@ -1,3 +1,4 @@
-web: gunicorn bio:app
+worker: python3 bio.py
+
 
 
