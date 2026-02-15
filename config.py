@@ -5,10 +5,10 @@ import re
 
 API_ID = "28483345" # Your Telegram API ID
 API_HASH = "0b04eb0deb137eb4d75bda5ca0bc49e8" # Your Telegram API Hash
-BOT_TOKEN = "" # Your Bot Token
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # MongoDB connection URI
-MONGO_URI = ""
+MONGO_URI = os.getenv("MONGO_URI")
 
 DEFAULT_WARNING_LIMIT = 3
 DEFAULT_PUNISHMENT = "mute" # Options: "mute", "ban"
