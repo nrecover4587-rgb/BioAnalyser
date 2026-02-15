@@ -1,7 +1,7 @@
 """
 Author: Elite Sid
-User: https://t.me/EliteSid
-Channel: https://t.me/VivaanUpdates
+User: https://t.me/codexempire
+Channel: https://t.me/codexempire
 """
 
 from pyrogram import Client, filters, errors
